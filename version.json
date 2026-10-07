@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0.0",
+  "latest_version": "1.1.0",
   "release_date": "07-Oct-2026",
-  "changelog": "• Enterprise Baseline: Hardware licensing, Dark Mode, and Self-Healing data.",
-  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v0.1.0/ERP_Submission_Bot.exe"
+  "changelog": "• Version 1.1.0: Native Google OAuth 2.0 login.\n• No sheet sharing required.\n• Google sign-in status badge with one-click sign out.",
+  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.1.0/ERP_Submission_Bot_1.1.exe"
 }
