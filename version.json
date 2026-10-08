@@ -2,5 +2,5 @@
   "latest_version": "1.2.0",
   "release_date": "08-Oct-2026",
   "changelog": "• Version 1.2: Granular row-by-row Self-Healing for B.FOB prices.\n• Automatic B FOB VALUE recalculation for multi-tier POs.\n• Updated Branding to ERP Invoice Submission Bot (v1.2).",
-  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.2.0/ERP_Invoice_Submission_Bot_1.2.exe"
+  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.2.0/ERP.Invoice.Submission.Bot.1.2.exe"
 }
