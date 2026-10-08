@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1.0",
-  "release_date": "07-Oct-2026",
-  "changelog": "• Version 1.1.0: Native Google OAuth 2.0 login.\n• No sheet sharing required.\n• Google sign-in status badge with one-click sign out.",
-  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.1.0/ERP_Submission_Bot_1.1.exe"
+  "latest_version": "1.2.0",
+  "release_date": "08-Oct-2026",
+  "changelog": "• Version 1.2: Granular row-by-row Self-Healing for B.FOB prices.\n• Automatic B FOB VALUE recalculation for multi-tier POs.\n• Updated Branding to ERP Invoice Submission Bot (v1.2).",
+  "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.2.0/ERP_Invoice_Submission_Bot_1.2.exe"
 }
