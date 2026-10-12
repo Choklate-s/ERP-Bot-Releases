@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.3.1",
-  "release_date": "10-Oct-2026",
-  "changelog": "• Version 1.3.1: Adaptive Column Discovery (Immune to ERP column shifts).\n• Added 3-second database latency wait on Contract No searches.\n• Removed Machine Lock & License Key requirement for seamless team access.\n• Fixed auto-updater executable renaming on hot-swap.",
+  "latest_version": "1.3.4",
+  "release_date": "11-Oct-2026",
+  "changelog": "• Version 1.3.4: Adaptive Column Discovery (Immune to ERP column shifts).\n• After choose po check row wise price and qty\n• Removed Machine Lock & License Key requirement for seamless team access.\n• Fixed auto-updater executable renaming on hot-swap.",
   "download_url": "https://github.com/Choklate-s/ERP-Bot-Releases/releases/download/v1.3.1/ERP.Invoice.Submission.Bot.1.3.1.exe"
 }
